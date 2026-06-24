@@ -36,12 +36,12 @@
 都源于我个人在键盘前崩溃又爬起的真实经历。
 
 ---
+## 📥 路线PDF下载
+### 一轮基础版
+[算法自学进阶路线（一轮基础版）.pdf](https://github.com/jia6-6/algorithm-roadmap/raw/main/round1/算法自学进阶路线（一轮基础版）.pdf)
 
-## 📂 路线文件
-
-- [算法自学进阶路线（一轮基础版）.pdf](./round1/算法自学进阶路线（一轮基础版）.pdf)
-- [算法自学进阶路线（二轮强化完整版）.pdf](./round2/算法自学进阶路线（二轮强化完整版）.pdf)
-
+### 二轮强化版
+[算法自学进阶路线（二轮强化版）.pdf](https://github.com/jia6-6/algorithm-roadmap/raw/main/round2/xxx.pdf)
 
 ---
 
