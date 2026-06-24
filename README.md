@@ -38,10 +38,10 @@
 ---
 ## 📥 路线PDF下载
 ### 一轮基础版
-[算法自学进阶路线（一轮基础版）.pdf](https://github.com/jia6-6/algorithm-roadmap/raw/main/round1/算法自学进阶路线（一轮基础版）.pdf)
+一轮基础版：[点击在线预览PDF](https://github.com/jia6-6/algorithm-roadmap/raw/main/round1/算法自学进阶路线（一轮基础版）.pdf)
 
 ### 二轮强化版
-[算法自学进阶路线（二轮强化版）.pdf](https://github.com/jia6-6/algorithm-roadmap/raw/main/round2/xxx.pdf)
+二轮强化版：[点击在线预览PDF](https://github.com/jia6-6/algorithm-roadmap/raw/main/round2/算法自学进阶路线（二轮强化版）.pdf)
 
 ---
 
